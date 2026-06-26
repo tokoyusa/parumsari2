@@ -195,7 +195,7 @@ export const TegalsariProfileView: React.FC<TegalsariProfileViewProps> = ({ appS
             <div className="pt-2">
               <div className="flex items-center gap-1 bg-emerald-500/10 border border-emerald-500/20 px-3 py-1.5 rounded-xl w-fit text-xs text-emerald-300 font-bold">
                 <MapPin className="w-3.5 h-3.5 shrink-0" />
-                Kec. Tegalsari, Banyuwangi
+                Kec. Kandeman, Batang
               </div>
             </div>
           </div>
